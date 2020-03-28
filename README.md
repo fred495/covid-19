@@ -4,6 +4,9 @@ Dataset e grafici sull'emergenza covid
 I dataset sono presi dalla [protezione civile](https://github.com/pcm-dpc/COVID-19) e modificati da me per aggiungere altre variabili. 
 I grafici sono fatti con la funzione ggplot di R.
 
+I data set sono aggiornati al giorno indicato e sono complessivi dei giorni precedenti.
+
+
 
 
 
